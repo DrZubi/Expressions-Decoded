@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore data folder due to size
+Data/
+
 # C extensions
 *.so
 
