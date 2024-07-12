@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/DrZubi/MIDS_DATASCI_207">
+    <img src="Images/image_1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Emotion Classification Modeling</h3>
@@ -15,6 +15,14 @@
 </div>
 
 ## About The Project
+<!--
+<p align="center">
+  <a href="https://github.com/DrZubi/MIDS_DATASCI_207">
+    <img src="Images/image_1.png" alt="classes" height="380">
+  </a>
+</p> 
+-->
+
 Convolutional Neural Networks (CNNs) are a class of deep learning models particularly suited for processing structured grid-like data, such as images and videos. They are designed to automatically and adaptively learn spatial hierarchies of features through a series of convolutional layers. Each layer consists of filters that convolve over input data, capturing local patterns and features. CNNs are widely used in tasks such as image classification, object detection, and facial recognition due to their ability to effectively handle spatial relationships and hierarchical patterns within data.
 
 ### Built With
