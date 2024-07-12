@@ -40,5 +40,6 @@ Convolutional Neural Networks (CNNs) are a class of deep learning models particu
 ## Acknowledgments
 * [Understanding of Convolution Neural Netowrks](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
 * [Get Heatmap from CNN (Convolution Neural Network), AKA CAM](https://tree.rocks/get-heatmap-from-cnn-convolution-neural-network-aka-grad-cam-222e08f57a34)
+* [Face Detection in Python Using a Webcam](https://realpython.com/face-detection-in-python-using-a-webcam/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
