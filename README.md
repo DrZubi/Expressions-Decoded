@@ -10,7 +10,8 @@
   <h3 align="center">Emotion Classification Modeling</h3>
 
   <p align="center">
-    Serah Almeyda, Priya Iragvarupu, Francesca Scipioni, Omar Zu'bi 
+    Serah Almeyda, Priya Iragvarupu, Francesca Scipioni, Sowjanya Yaddanapudi
+  Omar Zu'bi 
   </p>
 </div>
 
