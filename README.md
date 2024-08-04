@@ -10,7 +10,7 @@
   <h3 align="center">Emotion Classification Modeling</h3>
 
   <p align="center">
-    Serah Almeyda, Priya Iragvarupu, Francesca Scipioni, Sowjanya Yaddanapudi, Omar Zu'bi 
+    Priya Iragvarupu, Francesca Scipioni, Sowjanya Yaddanapudi, Omar Zu'bi 
   </p>
 </div>
 
@@ -29,13 +29,8 @@ Convolutional Neural Networks (CNNs) are a class of deep learning models particu
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## Model Analysis
-
-### Exploratory Data Analysis
-
-### Model Building
-
-### Model Performance Analysis
+### Recommendations
+We strongly suggest using Google Colab to execute the notebook and leveraging a TPU environment for running the code, especially if you plan to train the models yourself. Alternatively, you can import the pre-tuned and baseline models from the GitHub repository. The demo function, camera_feed, was originally designed for use with models on a local system. If you want to test the demo, we recommend loading one of the pre-built models into the function and experimenting with it on your own!
 
 ## Acknowledgments
 * [Understanding of Convolution Neural Netowrks](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
