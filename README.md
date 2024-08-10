@@ -7,7 +7,7 @@
     <img src="Images/image_1.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Emotion Classification Modeling</h3>
+  <h3 align="center">Expressions Decoded: Image Classification Modeling</h3>
 
   <p align="center">
     Priya Iragvarupu, Francesca Scipioni, Sowjanya Yaddanapudi, Omar Zu'bi 
